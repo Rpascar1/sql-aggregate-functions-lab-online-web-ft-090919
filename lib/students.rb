@@ -1,10 +1,11 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. 
 
 def highest_student_gpa
-  SELECT MAX(gpa) FROM 
+  "SELECT MAX(gpa) FROM students"
 end
 
-  SELECT AVG(net_worth) AS average_net_worth FROM cats;
+def
+  lowest_student_gpa
 end
 
 def average_student_gpa
